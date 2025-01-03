@@ -3,7 +3,7 @@ import smtplib
 import datetime as dt
 
 my_email = "davidmoshe110@gmail.com"
-my_password = "rgyugohnqbwteiwf"
+my_password = "*****************"
 
 now = dt.datetime.now()
 weekday = now.weekday()
